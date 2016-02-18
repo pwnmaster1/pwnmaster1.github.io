@@ -1,0 +1,33 @@
+	body{
+	background: grey;
+	margin:0;
+	}
+
+	div.center {
+	margin: 0 auto;
+	}
+	div.wrapper {
+	margin: 0 auto;
+	}
+	header {
+	margin: 0 auto;
+	text-align:center;
+	background:white;
+	width: 100%;
+	padding-top:0px;
+	position:fixed top 0;
+	padding: 1em;
+    line-height: 1em;
+	}
+	div.mainnav{
+	
+	margin: 0 auto;
+	}
+	nav a {
+	text-align: center;
+	padding-left: 40px;
+	display:inline;
+	}
+	nav{
+	text-align:center;
+	}
